@@ -1,0 +1,42 @@
+ARCCORP SYSTEM
+
+----------------------------
+ARCCOPR
+
+--Area 18--
+Agricium 27,50
+Titanium 8,90
+
+/////////////////////////////
+HURSTON SYSTEM
+
+------------------------------
+HURSTON
+
+--Lorville Business District-- no Mining
+
+--Lorville Central District--
+Amioshi Plague 13,20
+Hadanite 275,00
+Ranta Dung 44,00
+
+/////////////////////////////
+CRUSADER SYSTEM
+
+------------------------------
+Daymar
+
+--Kudre Ore--
+
+
+
+
+
+
+
+
+
+Loweridge Mineral Reserve Agricium -> Area 18 sell
+
+
+Loweridge Mineral Reserve Agricium -> Port Olisar sell -> Stash House Neon -> Loweridge Mineral Reserve sell

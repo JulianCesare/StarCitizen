@@ -1,0 +1,169 @@
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+CRUSADER SYSTEM
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+
+-------------------------------
+YELA
+
+--Benson Mining Outpost--
+Astatin 7,91
+Chlorine 1,30
+Flourine 2,35
+Hydrogen 0,90
+Iodine 0,35
+Waste 0,01
+
+--------------------------------
+DAYMAR
+
+--ArcCorp Mining Area 141--
+Agricium 24,86
+Beryl 4,14
+Corundum 2,30
+Quartz 1,25
+Tungsten 3,74
+Waste 0,01
+
+--Stash House--
+Altruciatoxin 43,84
+E'tam 85,00
+Neon 70,09
+WiDoW 101,01
+Waste 0,01
+
+--------------------------------
+CELLIN
+
+--Gallete Family Farms--
+Distilled Spirits 4,65
+Processed Food 1,20
+Revenant Tree Polls 1,32
+Waste 0,01
+
+--Stash House--
+
+
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+ARCCORP SYSTEM
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+
+--------------------------------
+LYRIA
+
+--Shubin Mining Facility SAL-2--
+Agricium 23,74
+Chlorine 1,30
+Corundum 2,30
+Titanium 7,85
+Waste 0,01
+
+--Shubin Mining Facility SAL-5--
+Beryl 4,05
+Chlorine 1,30
+Diamond 6,01
+Quartz 1,25
+Titanium 7,34
+Waste 0,01
+
+--Loweridge Mineral Reserve--
+Agricium 23,77
+Chlorine 1,30
+Corundum 2,30
+Flourine 2,35
+Titanium 7,95
+Waste 0,01
+
+--Humboldt Mines--
+Chorine 1,30
+Corundum 2,30
+Flourine 2,35
+Gold 5,42
+Titanium 7,12
+Waste 0,01
+
+-The Orphanage--
+Altruciatoxin 42,50
+E'tam 87,09
+SLAM 120,00
+Waste 0,01
+
+----------------------------------
+WALA
+
+--ArcCorp Mining Area 045--
+Aluminium 1,11
+Diamond 6,38
+Laranite 27,42
+Quartz 1,26
+Tungsten 3,56
+Waste 0,01
+
+--ArcCorp Mining Area 061--
+Astatin 7,51
+Iodine 0,35
+Tungsten 3,55
+Waste 0,01
+
+--Samson & Son's Salvage Center--
+none
+
+
+
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+HURSTON SYSTEM
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+///////////////////////////////////
+
+-----------------------------
+HURSTON
+
+--HDMS-Stanhope--
+Aluminium 1,11
+Corundum 2,30
+
+--HDMS-Hadley--
+Aluminium 1,11
+Waste 0,01
+
+--Reclamation & Disposal Orinth--
+none
+
+-----------------------------
+MAGDA
+
+--HDMS-Perlman--
+Agricultural Supply 1,00
+Aluminium 1,11
+Gold 5,40
+Waste 0,01
+
+------------------------------
+ITA
+
+--HDMS-Woodruff--
+Agricultural Supply 1,00
+Aluminium 1,11
+Astatine 7,56
+Beryl 4,05
+Hydrogen 0,90
+Waste 0,01
+
+
+	
